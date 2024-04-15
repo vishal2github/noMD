@@ -6,9 +6,9 @@
         >> Used to make text specifically different to catch the attention of the reader.
 
     > THEORY
-        >> The blockquote is initiated by adding 'greater than' symbol (>), also known as a 'blockquote' symbol.
+        >> The blockquoted text is initiated by adding 'greater than' symbol (>), also known as a 'blockquote' symbol.
 
-        >> The sub-blackquote can be initiated by adding multiple 'greater than' symbols.
+        >> The sub-blockquoted text can be initiated by adding multiple 'greater than' symbols.
 
         >> The blockquote doesn't work if implemented inside the comment, as you can see here itself (notice title, purpose and theory heading), reason is because the comment is ignored by the compiler and won't appear in preview or display.
 -->
