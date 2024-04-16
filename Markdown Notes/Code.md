@@ -41,3 +41,35 @@ This is the normal statement, `and this is the code format statement`.
 -->
 
 ``Code-formatted para normal starting `SECONDARY CODED LINE WITH VISIBLE BACKTICK ENCLOSURE,` code-formatted para normal ending.``
+
+<br>
+
+***
+
+<br>
+
+<!--
+    > TITLE 3
+        >> Fenced code block
+
+    > PURPOSE
+        >> Used to define a code block specifically for scripts used as an examples under any article paragraph.
+
+    > THEORY
+        >> Use the triple backticks enclosure to create a proper code block.
+-->
+
+### Fenced code block
+
+```
+    #include <iostream>
+    
+    using namespace std;
+
+    int main()
+    {
+        cout << "Hello World";
+
+        return 0;
+    }
+```
